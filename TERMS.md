@@ -81,7 +81,7 @@ Türkiye Cumhuriyeti hukuku uygulanır. Uyuşmazlıklarda İstanbul Mahkemeleri 
 
 ## 12. İletişim
 
-Sorularınız için: **destek@alarmrise.app**
+Sorularınız için: **abirkan.aksoy@gmail.com**
 
 ---
 
@@ -140,4 +140,4 @@ Republic of Turkey. Istanbul courts jurisdiction.
 
 ## 12. Contact
 
-**destek@alarmrise.app**
+**abirkan.aksoy@gmail.com**

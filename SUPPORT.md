@@ -12,7 +12,7 @@ AlarmRise ekibi olarak her geri bildirimi okuyoruz. Genellikle **24 saat içinde
 
 ## 📧 Bize Yazın
 
-**Email:** [destek@alarmrise.app](mailto:destek@alarmrise.app)
+**Email:** [abirkan.aksoy@gmail.com](mailto:abirkan.aksoy@gmail.com)
 
 Daha hızlı çözüm için lütfen şunları ekleyin:
 - Uygulama sürümü (Ayarlar → Sürüm)
@@ -73,7 +73,7 @@ Bir hata mı keşfettiniz? Lütfen şunları gönderin:
 4. Cihaz + iOS + uygulama sürümü
 5. Mümkünse ekran görüntüsü
 
-**Email:** [destek@alarmrise.app](mailto:destek@alarmrise.app)
+**Email:** [abirkan.aksoy@gmail.com](mailto:abirkan.aksoy@gmail.com)
 
 ---
 
@@ -81,7 +81,7 @@ Bir hata mı keşfettiniz? Lütfen şunları gönderin:
 
 Yeni özellik fikriniz mi var? Geri bildirimleri çok ciddiye alıyoruz. Yol haritamızı kullanıcı talebine göre güncelliyoruz.
 
-**Email:** [destek@alarmrise.app](mailto:destek@alarmrise.app)
+**Email:** [abirkan.aksoy@gmail.com](mailto:abirkan.aksoy@gmail.com)
 
 ---
 

@@ -89,7 +89,7 @@ description: Premium alarm + sleep tracking. Mission-based wake-up that gets you
 </p>
 
 <p style="margin-top: 24px; color: #777;">
-  <strong>destek@alarmrise.app</strong>
+  <strong>abirkan.aksoy@gmail.com</strong>
 </p>
 
 <p style="margin-top: 32px; font-size: 13px; color: #999;">

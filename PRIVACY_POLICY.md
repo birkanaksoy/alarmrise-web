@@ -11,7 +11,7 @@ Yöneten yasalar: Türkiye Cumhuriyeti — 6698 sayılı **Kişisel Verilerin Ko
 ## 1. Veri Sorumlusu
 
 Birkan Aksoy
-E-posta: destek@alarmrise.app
+E-posta: abirkan.aksoy@gmail.com
 
 ## 2. Topladığımız Veriler
 
@@ -30,7 +30,7 @@ Bu veriler iCloud üzerinden **kendi cihazlarınız arasında** senkronize edili
 - **Kişisel tanımlayıcı içermez.** Apple App Analytics üzerinden anonim toplanır.
 
 ### 2.3 Destek Talebi
-Destek formundan gönderilen mesajlar `destek@alarmrise.app` adresine iletilir. Sadece talebinizi çözmek için saklanır, üçüncü taraflarla paylaşılmaz.
+Destek formundan gönderilen mesajlar `abirkan.aksoy@gmail.com` adresine iletilir. Sadece talebinizi çözmek için saklanır, üçüncü taraflarla paylaşılmaz.
 
 ### 2.4 Abonelik & Satın Alma
 Apple App Store üzerinden yürütülür. Ödeme bilgileriniz Apple'da kalır, biz **görmeyiz**.
@@ -77,7 +77,7 @@ KVKK kapsamında aşağıdaki haklara sahipsiniz:
 - Verilerinizi taşınabilir formatta dışa aktarma (Ayarlar → "Verilerimi İndir")
 - Zarara uğramanız halinde tazminat talep etme
 
-Bu hakları kullanmak için `destek@alarmrise.app` adresine yazabilirsiniz.
+Bu hakları kullanmak için `abirkan.aksoy@gmail.com` adresine yazabilirsiniz.
 
 ## 8. Çocukların Gizliliği
 
@@ -89,7 +89,7 @@ Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikleri uygulama
 
 ## 10. İletişim
 
-Sorularınız için: **destek@alarmrise.app**
+Sorularınız için: **abirkan.aksoy@gmail.com**
 
 ---
 
@@ -103,7 +103,7 @@ Governing law: Republic of Turkey **Personal Data Protection Law (KVKK, Law No. 
 
 ## 1. Data Controller
 
-Birkan Aksoy — destek@alarmrise.app
+Birkan Aksoy — abirkan.aksoy@gmail.com
 
 ## 2. Data We Collect
 
@@ -122,7 +122,7 @@ This data syncs **only between your own devices** via iCloud (CloudKit) for Pro 
 - **No personal identifiers.** Collected anonymously via Apple App Analytics.
 
 ### 2.3 Support Requests
-Messages sent through the support form are delivered to `destek@alarmrise.app` and used only to resolve your issue.
+Messages sent through the support form are delivered to `abirkan.aksoy@gmail.com` and used only to resolve your issue.
 
 ### 2.4 Subscriptions
 Handled by Apple App Store. Payment info stays with Apple — we **never see it**.
@@ -148,7 +148,7 @@ On-device until you delete it. Use Settings → "Delete All Data" for full erasu
 
 ## 7. Your Rights (KVKK / GDPR-equivalent)
 
-You can: access, correct, delete, export your data, and request compensation for damages. Use the in-app tools or email `destek@alarmrise.app`.
+You can: access, correct, delete, export your data, and request compensation for damages. Use the in-app tools or email `abirkan.aksoy@gmail.com`.
 
 ## 8. Children
 
@@ -160,4 +160,4 @@ Updates are announced in-app ("What's New").
 
 ## 10. Contact
 
-**destek@alarmrise.app**
+**abirkan.aksoy@gmail.com**
