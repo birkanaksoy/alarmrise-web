@@ -1,12 +1,12 @@
-# Kullanım Koşulları — AlarmApp
+# Kullanım Koşulları — AlarmShield
 
 **Son güncelleme:** 7 Haziran 2026
 
-Bu Kullanım Koşulları ("Koşullar"), AlarmApp ("Hizmet", "uygulama") kullanımınızı düzenler. Uygulamayı yüklediğinizde bu koşulları kabul etmiş sayılırsınız.
+Bu Kullanım Koşulları ("Koşullar"), AlarmShield ("Hizmet", "uygulama") kullanımınızı düzenler. Uygulamayı yüklediğinizde bu koşulları kabul etmiş sayılırsınız.
 
 ## 1. Hizmetin Doğası
 
-AlarmApp, alarm, uyku takibi, görev tabanlı uyandırma ve premium içerik sunan bir iOS uygulamasıdır. Servis "olduğu gibi" sunulur — aşağıdaki sınırlamalar saklı kalmak kaydıyla.
+AlarmShield, alarm, uyku takibi, görev tabanlı uyandırma ve premium içerik sunan bir iOS uygulamasıdır. Servis "olduğu gibi" sunulur — aşağıdaki sınırlamalar saklı kalmak kaydıyla.
 
 ## 2. Abonelik (Subscriptions)
 
@@ -81,19 +81,19 @@ Türkiye Cumhuriyeti hukuku uygulanır. Uyuşmazlıklarda İstanbul Mahkemeleri 
 
 ## 12. İletişim
 
-Sorularınız için: **destek@alarmapp.app**
+Sorularınız için: **destek@alarmshield.app**
 
 ---
 
-# Terms of Service — AlarmApp (English)
+# Terms of Service — AlarmShield (English)
 
 **Last updated:** June 7, 2026
 
-These Terms govern your use of AlarmApp ("Service"). By installing the app, you agree to these terms.
+These Terms govern your use of AlarmShield ("Service"). By installing the app, you agree to these terms.
 
 ## 1. Nature
 
-AlarmApp is an iOS alarm + sleep tracking + mission-wake + premium content app. Service is provided "as-is".
+AlarmShield is an iOS alarm + sleep tracking + mission-wake + premium content app. Service is provided "as-is".
 
 ## 2. Subscriptions
 
@@ -140,4 +140,4 @@ Republic of Turkey. Istanbul courts jurisdiction.
 
 ## 12. Contact
 
-**destek@alarmapp.app**
+**destek@alarmshield.app**
