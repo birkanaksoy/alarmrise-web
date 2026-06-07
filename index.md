@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# AlarmShield — Legal
+# AlarmRise — Legal
 
 - [Privacy Policy / Gizlilik Politikası](./PRIVACY_POLICY)
 - [Terms of Service / Kullanım Koşulları](./TERMS)
 
-**Contact:** destek@alarmshield.app
+**Contact:** destek@alarmrise.app

@@ -1,8 +1,8 @@
-# Gizlilik Politikası — AlarmShield
+# Gizlilik Politikası — AlarmRise
 
 **Son güncelleme:** 7 Haziran 2026
 
-Bu Gizlilik Politikası, AlarmShield ("biz", "uygulama") tarafından sunulan iOS uygulamasını ve hizmetlerini ("Hizmet") kullandığınızda kişisel verilerinizin nasıl işlendiğini açıklar.
+Bu Gizlilik Politikası, AlarmRise ("biz", "uygulama") tarafından sunulan iOS uygulamasını ve hizmetlerini ("Hizmet") kullandığınızda kişisel verilerinizin nasıl işlendiğini açıklar.
 
 Yöneten yasalar: Türkiye Cumhuriyeti — 6698 sayılı **Kişisel Verilerin Korunması Kanunu (KVKK)** ve Apple App Store yönergeleri.
 
@@ -11,7 +11,7 @@ Yöneten yasalar: Türkiye Cumhuriyeti — 6698 sayılı **Kişisel Verilerin Ko
 ## 1. Veri Sorumlusu
 
 Birkan Aksoy
-E-posta: destek@alarmshield.app
+E-posta: destek@alarmrise.app
 
 ## 2. Topladığımız Veriler
 
@@ -30,7 +30,7 @@ Bu veriler iCloud üzerinden **kendi cihazlarınız arasında** senkronize edili
 - **Kişisel tanımlayıcı içermez.** Apple App Analytics üzerinden anonim toplanır.
 
 ### 2.3 Destek Talebi
-Destek formundan gönderilen mesajlar `destek@alarmshield.app` adresine iletilir. Sadece talebinizi çözmek için saklanır, üçüncü taraflarla paylaşılmaz.
+Destek formundan gönderilen mesajlar `destek@alarmrise.app` adresine iletilir. Sadece talebinizi çözmek için saklanır, üçüncü taraflarla paylaşılmaz.
 
 ### 2.4 Abonelik & Satın Alma
 Apple App Store üzerinden yürütülür. Ödeme bilgileriniz Apple'da kalır, biz **görmeyiz**.
@@ -53,7 +53,7 @@ Apple App Store üzerinden yürütülür. Ödeme bilgileriniz Apple'da kalır, b
 | Sağlık | Apple Health'e uyku yazma | Opsiyonel |
 | Mesafe Algıla / Konum | Hava durumu (cihazda) | Opsiyonel |
 
-İzinleri istediğiniz zaman iOS Ayarlar → AlarmShield'ten değiştirebilirsiniz.
+İzinleri istediğiniz zaman iOS Ayarlar → AlarmRise'ten değiştirebilirsiniz.
 
 ## 5. Üçüncü Taraf Hizmetler
 
@@ -77,7 +77,7 @@ KVKK kapsamında aşağıdaki haklara sahipsiniz:
 - Verilerinizi taşınabilir formatta dışa aktarma (Ayarlar → "Verilerimi İndir")
 - Zarara uğramanız halinde tazminat talep etme
 
-Bu hakları kullanmak için `destek@alarmshield.app` adresine yazabilirsiniz.
+Bu hakları kullanmak için `destek@alarmrise.app` adresine yazabilirsiniz.
 
 ## 8. Çocukların Gizliliği
 
@@ -89,21 +89,21 @@ Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikleri uygulama
 
 ## 10. İletişim
 
-Sorularınız için: **destek@alarmshield.app**
+Sorularınız için: **destek@alarmrise.app**
 
 ---
 
-# Privacy Policy — AlarmShield (English)
+# Privacy Policy — AlarmRise (English)
 
 **Last updated:** June 7, 2026
 
-This Privacy Policy explains how AlarmShield ("we", "the app") processes your personal data when you use our iOS application and services ("the Service").
+This Privacy Policy explains how AlarmRise ("we", "the app") processes your personal data when you use our iOS application and services ("the Service").
 
 Governing law: Republic of Turkey **Personal Data Protection Law (KVKK, Law No. 6698)** and Apple App Store guidelines.
 
 ## 1. Data Controller
 
-Birkan Aksoy — destek@alarmshield.app
+Birkan Aksoy — destek@alarmrise.app
 
 ## 2. Data We Collect
 
@@ -122,7 +122,7 @@ This data syncs **only between your own devices** via iCloud (CloudKit) for Pro 
 - **No personal identifiers.** Collected anonymously via Apple App Analytics.
 
 ### 2.3 Support Requests
-Messages sent through the support form are delivered to `destek@alarmshield.app` and used only to resolve your issue.
+Messages sent through the support form are delivered to `destek@alarmrise.app` and used only to resolve your issue.
 
 ### 2.4 Subscriptions
 Handled by Apple App Store. Payment info stays with Apple — we **never see it**.
@@ -148,7 +148,7 @@ On-device until you delete it. Use Settings → "Delete All Data" for full erasu
 
 ## 7. Your Rights (KVKK / GDPR-equivalent)
 
-You can: access, correct, delete, export your data, and request compensation for damages. Use the in-app tools or email `destek@alarmshield.app`.
+You can: access, correct, delete, export your data, and request compensation for damages. Use the in-app tools or email `destek@alarmrise.app`.
 
 ## 8. Children
 
@@ -160,4 +160,4 @@ Updates are announced in-app ("What's New").
 
 ## 10. Contact
 
-**destek@alarmshield.app**
+**destek@alarmrise.app**
