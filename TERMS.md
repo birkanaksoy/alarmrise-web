@@ -1,143 +1,84 @@
-# Kullanım Koşulları — AlarmRise
-
-**Son güncelleme:** 7 Haziran 2026
-
-Bu Kullanım Koşulları ("Koşullar"), AlarmRise ("Hizmet", "uygulama") kullanımınızı düzenler. Uygulamayı yüklediğinizde bu koşulları kabul etmiş sayılırsınız.
-
-## 1. Hizmetin Doğası
-
-AlarmRise, alarm, uyku takibi, görev tabanlı uyandırma ve premium içerik sunan bir iOS uygulamasıdır. Servis "olduğu gibi" sunulur — aşağıdaki sınırlamalar saklı kalmak kaydıyla.
-
-## 2. Abonelik (Subscriptions)
-
-### 2.1 Planlar
-
-- **Aylık:** $2.99 / ay (otomatik yenilenir)
-- **Yıllık:** $24.99 / yıl, **ilk 7 gün ücretsiz deneme** ile (otomatik yenilenir)
-
-### 2.2 Ücretlendirme ve Yenileme
-
-- Ödeme, satın alma onayı sırasında Apple ID hesabınıza yansıtılır.
-- Abonelik, mevcut dönemin bitiminden en az **24 saat önce** iptal edilmediği sürece **otomatik yenilenir**.
-- Yenileme ücreti, mevcut dönemin bitiminden 24 saat içinde tahsil edilir.
-- Yenileme yöntemini ve iptali Apple ID Ayarları → Abonelikler bölümünden yönetebilirsiniz.
-
-### 2.3 Ücretsiz Deneme
-
-- Yıllık plan için 7 gün ücretsiz deneme sunulur. Deneme süresi içinde iptal edilmezse abonelik otomatik başlar.
-- Ücretsiz deneme sadece **yeni kullanıcılara** sunulur, daha önce abone olmuş hesaplar için geçerli değildir.
-
-### 2.4 İade Politikası
-
-Apple App Store iade politikası geçerlidir. İade talepleri için **reportaproblem.apple.com** üzerinden Apple'a başvurun. Apple'ın takdiri esastır.
-
-## 3. Hesap
-
-- Apple ID üzerinden kullanılır, ayrı hesap oluşturmanıza gerek yoktur.
-- Apple ID güvenliği sizin sorumluluğunuzdadır.
-
-## 4. Pro İçerik
-
-Pro aboneliği şu özellikleri açar:
-- Sınırsız alarm, zamanlayıcı, premium sesler
-- Tüm temalar, görev modları
-- iCloud senkron
-- Uzun vadeli uyku analizi
-- Aile alarmları
-
-İçerik listesi zamanla genişleyebilir; mevcut aboneliğinizi etkilemez.
-
-## 5. Yasak Kullanım
-
-- Hizmeti tersine mühendislik yapma, kopyalama veya türev çalışma oluşturma
-- Yetkisiz erişim girişimi
-- Hizmet kullanımıyla başkalarına zarar verme
-
-## 6. Fikri Mülkiyet
-
-Uygulama, içerik ve tasarım Birkan Aksoy'a aittir. Kişisel, ticari olmayan kullanım için sınırlı, devredilemez lisans verilir.
-
-## 7. Sorumluluk Reddi
-
-- Alarmın çaldırılması iOS bildirim sistemi üzerinden çalışır. **Hizmet, alarmın her koşulda çaldırılacağını garanti edemez** (telefonun kapalı olması, izin reddi, OS hatası gibi durumlar).
-- Önemli randevular için **birden fazla alarm yöntemi** kullanmanız önerilir.
-- Hizmet **tıbbi bir cihaz değildir**. Uyku verileri bilgilendirme amaçlıdır, tanı veya tedavi için kullanılamaz.
-
-## 8. Sorumluluk Sınırlaması
-
-Yürürlükteki yasalar izin verdiği ölçüde, geliştirici dolaylı, arızi, özel veya sonuç olarak ortaya çıkan zararlardan sorumlu tutulamaz.
-
-## 9. Koşulların Değişmesi
-
-Bu koşulları zaman zaman güncelleyebiliriz. Önemli değişiklikler uygulama içi "Yenilikler" ekranında duyurulur. Güncellemeden sonra Hizmeti kullanmaya devam etmeniz koşulları kabul ettiğiniz anlamına gelir.
-
-## 10. Hizmetin Sonlandırılması
-
-İhlal durumunda hizmeti askıya alma veya sonlandırma hakkını saklı tutarız. Siz de istediğiniz zaman uygulamayı silerek veya aboneliği iptal ederek ilişkiyi sonlandırabilirsiniz.
-
-## 11. Uygulanacak Hukuk
-
-Türkiye Cumhuriyeti hukuku uygulanır. Uyuşmazlıklarda İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
-
-## 12. İletişim
-
-Sorularınız için: **abirkan.aksoy@gmail.com**
-
----
-
-# Terms of Service — AlarmRise (English)
+# Terms of Use — AlarmRise
 
 **Last updated:** June 7, 2026
 
-These Terms govern your use of AlarmRise ("Service"). By installing the app, you agree to these terms.
+These Terms of Use ("Terms") govern your use of AlarmRise ("the Service", "the app"). By installing the app, you agree to these Terms.
 
-## 1. Nature
+## 1. Nature of the Service
 
-AlarmRise is an iOS alarm + sleep tracking + mission-wake + premium content app. Service is provided "as-is".
+AlarmRise is an iOS app offering alarms, sleep tracking, mission-based wake-up, and premium content. The Service is provided "as is", subject to the limitations below.
 
 ## 2. Subscriptions
 
+### 2.1 Plans
+
 - **Monthly:** $2.99 / month (auto-renewing)
-- **Yearly:** $24.99 / year with **7-day free trial** (auto-renewing)
+- **Yearly:** $24.99 / year with a **7-day free trial** (auto-renewing)
 
-Auto-renews unless cancelled 24h before period end. Manage via Apple ID Settings → Subscriptions. Free trial only for new users.
+### 2.2 Billing and Renewal
 
-## 3. Refunds
+- Payment is charged to your Apple ID account upon purchase confirmation.
+- Subscriptions **renew automatically** unless cancelled at least **24 hours** before the end of the current period.
+- The renewal charge is taken within 24 hours of the end of the current period.
+- You can manage renewal and cancellation in Apple ID Settings → Subscriptions.
 
-Apple App Store refund policy applies. Request via reportaproblem.apple.com.
+### 2.3 Free Trial
 
-## 4. Pro Features
+- The yearly plan includes a 7-day free trial. If you don't cancel during the trial, the subscription starts automatically.
+- The free trial is available **only to new users**; accounts that have previously subscribed are not eligible.
 
-Unlimited alarms, premium sounds, themes, missions, iCloud sync, long-term insights, family alarms. List may expand.
+### 2.4 Refunds
+
+The Apple App Store refund policy applies. Submit refund requests to Apple via **reportaproblem.apple.com**. Apple's decision is final.
+
+## 3. Account
+
+- The Service uses your Apple ID — no separate account is required.
+- You are responsible for the security of your Apple ID.
+
+## 4. Pro Content
+
+A Pro subscription unlocks:
+- Unlimited alarms, timers, premium sounds
+- All themes and mission modes
+- iCloud sync
+- Long-term sleep insights
+- Family alarms
+
+The feature list may expand over time without affecting your current subscription.
 
 ## 5. Prohibited Use
 
-No reverse engineering, unauthorized access, harm to others.
+- Reverse engineering, copying, or creating derivative works from the Service
+- Attempting unauthorized access
+- Using the Service to harm others
 
-## 6. IP
+## 6. Intellectual Property
 
-Owned by Birkan Aksoy. Personal non-commercial license granted.
+The app, its content, and its design belong to Birkan Aksoy. You are granted a limited, non-transferable license for personal, non-commercial use.
 
 ## 7. Disclaimer
 
-**Service cannot guarantee alarm delivery in all conditions** (powered-off phone, denied permissions, OS bugs). Use multiple alarm methods for critical events. **Not a medical device.**
+- Alarms are delivered through the iOS notification system. **The Service cannot guarantee that the alarm will ring under all conditions** (e.g., powered-off phone, denied permissions, OS bugs).
+- For critical events, we recommend using **multiple alarm methods**.
+- The Service **is not a medical device**. Sleep data is informational only and must not be used for diagnosis or treatment.
 
-## 8. Liability
+## 8. Limitation of Liability
 
-Limited to extent permitted by law. No liability for indirect/consequential damages.
+To the fullest extent permitted by applicable law, the developer is not liable for any indirect, incidental, special, or consequential damages.
 
-## 9. Changes
+## 9. Changes to the Terms
 
-Updates announced in-app. Continued use = acceptance.
+We may update these Terms from time to time. Material changes will be announced on the in-app "What's New" screen. Continued use of the Service after an update constitutes acceptance of the new Terms.
 
 ## 10. Termination
 
-We may suspend on breach. You may terminate by deleting app or cancelling subscription.
+We reserve the right to suspend or terminate the Service in the event of a breach. You may end the relationship at any time by deleting the app or cancelling your subscription.
 
 ## 11. Governing Law
 
-Republic of Turkey. Istanbul courts jurisdiction.
+These Terms are governed by the laws of the Republic of Turkey. The courts and enforcement offices of Istanbul have jurisdiction over any disputes.
 
 ## 12. Contact
 
-**abirkan.aksoy@gmail.com**
+For any questions: **abirkan.aksoy@gmail.com**
